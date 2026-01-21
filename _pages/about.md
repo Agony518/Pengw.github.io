@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year doctoral student student from Hohai University. My research interest includes machine learning, adversarial attack
-[Email](pengw0116@hhu.edu.cn) / [Github](https://github.com/pengw)
+I'm a first year doctoral student student from Hohai University. My research interest includes machine learning, adversarial attack.
+Email: pengw0116@hhu.edu.cn
